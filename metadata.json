@@ -1,0 +1,6 @@
+{
+  "name": "Turbo Dodge: Highway Rider",
+  "description": "An arcade dodge and collect game where you steer bikes and cars through high-speed highway traffic, dodge obstacles, and collect points and power-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
